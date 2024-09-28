@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://plus.unsplash.com/premium_photo-1661964187664-e26f70e1a224?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.istockphoto.com/id/1432962983/vector/quantum-computer-technologies-concept-futuristic-blue-circuit-board-background-vector-modern.jpg?s=612x612&w=0&k=20&c=e1KLxKFTLgTl63XMzKHglI8O8fnaMMCm-Z3jLxI7Ti8=" height="75px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prince</h1>
 <h3 align="center">I'm a Learning Full Stack Developer from India.</h3>
