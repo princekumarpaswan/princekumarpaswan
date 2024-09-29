@@ -3,17 +3,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Business landing page]()**
-
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently Exploring **AI.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/princekumarpaswan)**
-
 - 📫 How to reach me **prasantandal123@gmail.com**
-
-- ⚡ Fun fact **I just code or watch coding tutorials.**
 
 ## 🚀 Languages and Tools:
 
